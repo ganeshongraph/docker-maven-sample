@@ -18,3 +18,4 @@ node {
         echo 'Deploying....'
     }
 }
+}
